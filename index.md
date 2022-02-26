@@ -15,10 +15,10 @@
 -Information Hiding and Encapsulation are often confused as the same thing, but they are different
 - Information Hiding is how we control access to encapsulated data and operations. (Basically we don't want people knowing our code)
     - Done by using visibility settings
-	- `public`
-	- `private`
-	- `package private`
-	- `protected`
+		- `public`
+		- `private`
+		- `package private`
+		- `protected`
 
 ### Why Hide Information?
 - To keep data in sync
@@ -35,16 +35,5 @@
 - Objects and Classes are Modules
 
 > A good design helps with re-useability, debugging, and adapting to change
-
-
-
-
-
-
-***bold text***
-
-*italicized text*
-
-`code`
 
 ---
